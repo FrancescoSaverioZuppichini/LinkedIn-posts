@@ -8,7 +8,7 @@ So the goal is to make the model learn a new token associated to a subject in an
 ▪️ Noise is added to the image and fed into a diffusion model with the text embeddings
 ▪️ Noise is added to the image (with less intensity) to the image
 ▪️ We compare the model's output and the noisy input image
-▪️ We update the models weight
+▪️ We update the model's weight
 
 The idea is that the model has no clear idea what the special token is, so it will be forced to learn it by comparing it with the original noisy image
 
