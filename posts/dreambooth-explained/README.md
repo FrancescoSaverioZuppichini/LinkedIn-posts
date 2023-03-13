@@ -1,4 +1,4 @@
-How does **DreamBooth** work?
+How does **DreamBooth** work? 🤔
 
 Reading more about Generative AI so thought I can explain a little bit about DreamBooth
 
